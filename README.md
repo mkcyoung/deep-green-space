@@ -15,7 +15,7 @@ After training our model on the Cityscapes data, we applied it to [Google Street
 ## Results
 
 ```
-![alt text](https://github.com/mkcyoung/deep-green-space/blob/figs/targets_labels.png?raw=true)
+![alt text](https://github.com/mkcyoung/deep-green-space/figs/targets_labels.png?raw=true)
 ```
 
 
