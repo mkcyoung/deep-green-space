@@ -1,5 +1,7 @@
 # deep-green-space
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1T0wx-OeotbMgWym7DeNh-bC2MbKoIV1-#scrollTo=KE8vp8yCl1qT)
+
 ## Quantifying green space with deep learning.
 
 This project aims to quantify the amount of green space present in urban scenes using deep learning.  Green space is associated with increased health and well being of urban residents, improved urban landscape quality, and the promotion of sustainable lifestyles. Thus, it is useful for urban planners to be able to get an idea of the distribution of green space throughout a city.
