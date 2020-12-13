@@ -14,10 +14,21 @@ After training our model on the Cityscapes data, we applied it to [Google Street
 
 ## Results
 
+![](figs/val%20pic%201.png)
+
+![](figs/final_model_metrics.png)
 
 ![](figs/targets_labels.png)
 
+![](figs/targets_labels%202.png)
 
+![](figs/overlay%206.png)
+
+![](figs/overlay%207.png)
+
+![](figs/overlay%203.png)
+
+![](figs/GVI%20DeepLabV3.gif)
 
 
 
