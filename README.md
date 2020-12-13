@@ -22,7 +22,8 @@ After training our model on the Cityscapes data, we applied it to [Google Street
 
 ![](figs/targets_labels%202.png)
 
-![](figs/overlay%207.png) ![](figs/overlay%203.png) ![](figs/overlay%206.png)
+![](figs/overlay%207.png) ![](figs/overlay%203.png) 
+![](figs/overlay%206.png) ![](figs/overlay%201.png)
 
 
 
