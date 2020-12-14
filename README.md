@@ -25,7 +25,7 @@ The loss, pixelwise accuracy, and IoU of our model trained and evaluated on the 
 ![](figs/final_model_metrics.png)  
 Our model acheived a pixelwise accuracy of **96.1%** and an mIoU of **74.8%** on the SLC test set. Additionally, we computed the GVI for our predictions and compared them with the GVI for the ground truth labels and found that the mean difference was just **1.42 +/- 1.45%**.   
     
-Predictions from our model on the SLC test set:
+Example predictions from our model on the SLC test set:
 ![](figs/targets_labels.png)
 ![](figs/targets_labels%202.png)
 ![](figs/overlay%207.png) ![](figs/overlay%203.png) 
