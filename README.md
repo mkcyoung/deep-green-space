@@ -18,14 +18,14 @@ After training our model on the Cityscapes data, we applied it to [Google Street
 
 ## Results
 
-An example of our model predictions on the Cityscapes validation set.
+An example of our model predictions on the Cityscapes validation set:
 ![](figs/val%20pic%201.png)
 
-The loss, pixelwise accuracy, and IoU of our model trained and evaluated on the hand-labeled SLC GSV images. 
-![](figs/final_model_metrics.png)
-We acheived a pixelwise accuracy of **96.1%** and an mIoU of **74.8%**. We computed the GVI for our predictions and compared them with the GVI for the ground truth labels and found that the mean difference was **1.42 +/- 1.45%**.   
+The loss, pixelwise accuracy, and IoU of our model trained and evaluated on the hand-labeled SLC GSV images:
+![](figs/final_model_metrics.png)  
+Our model acheived a pixelwise accuracy of **96.1%** and an mIoU of **74.8%**. We computed the GVI for our predictions and compared them with the GVI for the ground truth labels and found that the mean difference was **1.42 +/- 1.45%**.   
     
-A few examples of predictions from our model on the SLC test set:
+Predictions from our model on the SLC test set:
 ![](figs/targets_labels.png)
 ![](figs/targets_labels%202.png)
 ![](figs/overlay%207.png) ![](figs/overlay%203.png) 
@@ -35,5 +35,4 @@ A map depicting the average GVI for each census block in SLC:
 ![](figs/GVI%20DeepLabV3.gif)
 
 ## Acknowledgements 
-This was the final project for the course CS 6955:Deep Learning, taught by Berton Earnshaw at the University of Utah. Jiuying Han and Andrew Campbell created this project with me, and Jiuying made the map showing the GVI for each census block in SLC.
-
+This was my final project for the course CS 6955: Deep Learning, taught by Berton Earnshaw at the University of Utah. Jiuying Han and Andrew Campbell were my teammates for this project, and they implemented PSPNet and an FCNet respectively. Additionally, Jiuying created the map showing the GVI distribution across the SLC census blocks.
