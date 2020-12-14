@@ -6,7 +6,7 @@
 
 ## Quantifying green space with deep learning.
 
-This project aims to quantify the amount of green space present in urban scenes using deep learning.  Green space is associated with increased health and well being of urban residents, improved urban landscape quality, and the promotion of sustainable lifestyles. Thus, it is useful for urban planners to be able to get an idea of the distribution of green space throughout a city.
+This project aims to quantify the amount of green space present in urban scenes using deep learning.  Green space is associated with increased health and well being of urban residents, improved urban landscape quality, and the promotion of sustainable lifestyles. Thus, it is useful for urban planners to have an accurate picture of the distribution of green space throughout a city.
 
 ## Green View Index
 One way to quantify green space is by using the Green View Index (GVI) measure, which takes the number of pixels in an image belonging to greenery and divides that by the total number of pixels in the image. This essentially yields a green space percentage. The GVI for a given point in space can be estimated by considering the 360 degree view from that point either via a panorama or through a series of images which cover the whole space. 
