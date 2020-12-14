@@ -23,7 +23,7 @@ An example of our model predictions on the Cityscapes validation set:
 
 The loss, pixelwise accuracy, and IoU of our model trained and evaluated on the hand-labeled SLC GSV images:
 ![](figs/final_model_metrics.png)  
-Our model acheived a pixelwise accuracy of **96.1%** and an mIoU of **74.8%**. We computed the GVI for our predictions and compared them with the GVI for the ground truth labels and found that the mean difference was **1.42 +/- 1.45%**.   
+Our model acheived a pixelwise accuracy of **96.1%** and an mIoU of **74.8%** on the SLC test set. Additionally, we computed the GVI for our predictions and compared them with the GVI for the ground truth labels and found that the mean difference was just **1.42 +/- 1.45%**.   
     
 Predictions from our model on the SLC test set:
 ![](figs/targets_labels.png)
