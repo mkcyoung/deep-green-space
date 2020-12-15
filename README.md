@@ -1,6 +1,6 @@
 # deep-green-space
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1T0wx-OeotbMgWym7DeNh-bC2MbKoIV1-#scrollTo=vBZnGPb1PrQ_) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1T0wx-OeotbMgWym7DeNh-bC2MbKoIV1-?usp=sharing) 
 
 [Full project report](https://github.com/mkcyoung/deep-green-space/blob/main/Deep%20Learning%20Project%20Report.pdf)
 
